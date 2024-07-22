@@ -1,1 +1,0 @@
-# OCR-optical-character-recognition
